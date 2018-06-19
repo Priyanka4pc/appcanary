@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">app canary</string>
+    <string name="app_canary">Canary</string>
+    <string name="Risk_level">Risk Level: LOW</string>
+    <string name="Humidity">Humidity 60%</string>
+    <string name="temp_unit">°C</string>
+    <string name="pressure_unit">bar</string>
+    <string name="pm1Value">75</string>
+    <string name="pm2Value">25</string>
+    <string name="pm10Value">65</string>
+    <string name="co2Value">10</string>
+    <string name="vocValue">20</string>
+    <string name="tempValue">36</string>
+    <string name="pressureValue">2</string>
+
+
+
+
+</resources>
